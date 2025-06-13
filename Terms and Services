@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Terms of Service - Auto Content Posting Tool</title>
     <style>
@@ -70,5 +70,8 @@
 
     <h2>9. Contact Information</h2>
     <p>If you have questions about these Terms of Service, please contact us through the appropriate channels.</p>
+</body>
+</html>
+
 </body>
 </html>
